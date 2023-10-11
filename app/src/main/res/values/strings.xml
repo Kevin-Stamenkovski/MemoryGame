@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="app_title">MEMORY GAME</string>
+    <string-array name="game_difficulties">
+        <item>4X4</item>
+        <item>6X6</item>
+        <item>8X8</item>
+        <item>10X10</item>
+    </string-array>
+    <string name="start_button">START</string>
+    <string name="quit_button">QUIT</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+<!-- PALETTE LIGHT 1 -->
+<!--    <color name="color_l1">#05668D</color> &lt;!&ndash;lapis_lazuli&ndash;&gt;-->
+<!--    <color name="color_l2">#7FC8F8</color> &lt;!&ndash;light_sky_blue&ndash;&gt;-->
+<!--    <color name="color_l3">#F9F9F9</color> &lt;!&ndash;seasalt&ndash;&gt;-->
+<!--    <color name="color_l4">#FFE45E</color> &lt;!&ndash;naples_yellow&ndash;&gt;-->
+<!--    <color name="color_l5">#FF6392</color> &lt;!&ndash;cyclamen&ndash;&gt;-->
+
+<!-- PALETTE LIGHT 2 -->
+    <color name="color_l6">#FB3640</color> <!--cute_red-->
+    <color name="color_l1">#FFEAEE</color> <!--lavender_blush-->
+    <color name="color_l2">#7F675B</color> <!--lavender_blush-->
+    <color name="color_l3">#0075F2</color> <!--lavender_blush-->
+    <color name="color_l4">#00F2F2</color> <!--lavender_blush-->
+    <color name="color_l5">#096B72</color> <!--lavender_blush-->
+
+</resources>
