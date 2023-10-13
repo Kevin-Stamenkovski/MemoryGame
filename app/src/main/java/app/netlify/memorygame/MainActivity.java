@@ -47,13 +47,13 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
                 setContentView(R.layout.game_started4x4);
                 break;
             case 1:
-                Toast.makeText(this, "Not Created Yet", Toast.LENGTH_SHORT).show();
+                setContentView(R.layout.game_started6x6);
                 break;
             case 2:
-                Toast.makeText(this, "Not Created Yet", Toast.LENGTH_SHORT).show();
+                setContentView(R.layout.game_started8x8);
                 break;
             case 3:
-                Toast.makeText(this, "Not Created Yet", Toast.LENGTH_SHORT).show();
+                setContentView(R.layout.game_started10x10);
                 break;
         }
     }

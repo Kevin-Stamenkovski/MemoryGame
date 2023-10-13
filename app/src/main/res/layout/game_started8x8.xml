@@ -3,19 +3,17 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".GameStarted4x4"
-    >
+    android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/textView2"
-        android:layout_width="98dp"
-        android:layout_height="24dp"
-        android:layout_marginStart="43dp"
-        android:layout_marginTop="58dp"
-        android:layout_marginEnd="310dp"
-        android:layout_marginBottom="654dp"
-        android:text="4 by 4 grid"
+        android:id="@+id/textView4"
+        android:layout_width="86dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="61dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="292dp"
+        android:layout_marginBottom="668dp"
+        android:text="8 by 8 Grid"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
